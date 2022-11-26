@@ -90,7 +90,7 @@ title: "TIP" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/tip-no-bk.png" # Site logo, also used in jekyll-seo-tag
 description: "TIP专注提供共创学习方法、思考框架、案例分享平台！" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mentorfinder.cn" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/tipHome"
 repo: "https://github.com/mfrepo/tipHome"
 email: "mentorfinder@163.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
