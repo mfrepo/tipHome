@@ -5,7 +5,7 @@
 ## 项目架构
 * 项目采用github page部署运行 
 * 运行方式： 博客网站 
-* 运行地址： mentorfinder.cn/tip
+* 运行地址： https://mfrepo.github.io/tipHome/
 
 ## 参与共创, 成为TIP作者
 * checkout代码到本地
