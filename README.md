@@ -1,5 +1,5 @@
 # 关于TIP
-* TIP 即Thought In Practice, 知行合一之意, MentorFinder
+* TIP 即Thought In Practice, 知行合一之意
 * 该仓库将开源TIP所有学习方法、工具、思想和项目实践，与社区一同探讨学习提升之道
 
 ## 项目架构
